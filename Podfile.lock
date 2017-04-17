@@ -1,0 +1,16 @@
+PODS:
+  - Rakam-iOS (4.0.0)
+
+DEPENDENCIES:
+  - Rakam-iOS (from `~/Code/rakam-ios copy`)
+
+EXTERNAL SOURCES:
+  Rakam-iOS:
+    :path: "~/Code/rakam-ios copy"
+
+SPEC CHECKSUMS:
+  Rakam-iOS: 9d69104ab7d0f2ca984e2485a1df37101010fb8a
+
+PODFILE CHECKSUM: 5c6895814402b78e90613b364eb074c382d60995
+
+COCOAPODS: 1.2.1.rc.1
